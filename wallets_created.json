@@ -1,0 +1,62 @@
+{
+  "2009": {
+    "transactions": 10444.0,
+    "wallets_created": 0
+  },
+  "2010": {
+    "transactions": 59117.0,
+    "wallets_created": 0
+  },
+  "2011": {
+    "transactions": 630308.0,
+    "wallets_created": 384.0
+  },
+  "2012": {
+    "transactions": 2757163.0,
+    "wallets_created": 204157.0
+  },
+  "2013": {
+    "transactions": 6603411.0,
+    "wallets_created": 4660889.0
+  },
+  "2014": {
+    "transactions": 8400588.0,
+    "wallets_created": 22006528.0
+  },
+  "2015": {
+    "transactions": 15218265.0,
+    "wallets_created": 49257356.0
+  },
+  "2016": {
+    "transactions": 27641403.0,
+    "wallets_created": 103915864.0
+  },
+  "2017": {
+    "transactions": 35108520.0,
+    "wallets_created": 469625308.0
+  },
+  "2018": {
+    "transactions": 27037791.0,
+    "wallets_created": 4188142069.0
+  },
+  "2019": {
+    "transactions": 39735327.0,
+    "wallets_created": 11225689493.0
+  },
+  "2020": {
+    "transactions": 37559517.0,
+    "wallets_created": 14813918892.0
+  },
+  "2021": {
+    "transactions": 32422278.0,
+    "wallets_created": 22264485777.0
+  },
+  "2022": {
+    "transactions": 30887225.0,
+    "wallets_created": 25154170601.0
+  },
+  "2023": {
+    "transactions": 8593472.0,
+    "wallets_created": 6107255149.0
+  }
+}
